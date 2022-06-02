@@ -4,8 +4,6 @@ import psutil
 import os
 from time import time
 from sklearn.cluster import AgglomerativeClustering
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
 
 
 def txt2array(txt_path, delimiter):
@@ -216,7 +214,8 @@ def HTK(data, threshold, tol, max_iterations):
 
 if __name__ == '__main__':
     begin_time = time()
-    X = txt2array("D:/python program/数据集/UCI/UCI数据集txt格式/txt/Ionosphere.txt", ",")
+    # loading txt
+    X = txt2array("D:/python program/txt/Ionosphere.txt", ",")
     n_samples, n_features = X.shape
     labels = HTK(X, 50, 0.01, 1000)
     end_time = time()
