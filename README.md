@@ -1,6 +1,6 @@
-# HTK_Clustering
+# A Hybrid Clustering Method Based On K-means Algorithm
 
-This is an example file with default selections.
+This is a novel hybrid algorithm that effectively combines K-means clustering and Hierarchical and uses triangle inequality to accelerate the clustering speed.
 
 ## Install
 
