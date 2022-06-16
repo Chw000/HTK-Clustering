@@ -23,10 +23,12 @@ You can download datasets here:
 
 ### How to use Datasets
 - 1.Download the dataset you need
-- 2.Change the bold text in the image below to the address you downloaded from
+- 2.Change the bold text to the address you downloaded from
+- 3.Run program file
 
-- X = txt2array("**D:/python program/txt/Ionosphere.txt**", ",")
-
+******
+X = txt2array("**D:/python program/txt/Ionosphere.txt**", ",")
+******
 
 
 ## Code
