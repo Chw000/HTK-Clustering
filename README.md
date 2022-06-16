@@ -25,7 +25,7 @@ You can download datasets here:
 - 1.Download the dataset you need
 - 2.Change the bold text in the image below to the address you downloaded from
 
-X = txt2array("**D:/python program/txt/Ionosphere.txt**", ",")
+-     X = txt2array("**D:/python program/txt/Ionosphere.txt**", ",")
 
 
 
