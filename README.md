@@ -46,16 +46,3 @@ pip install scikit-learn
 pip install scipy
 ```
 - Experimental operating system is Window XP,program language is Python 3.9.
-
-## Results
-
-Our model achieves the following performance on :
-
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
-
-| Model name         | Top 1 Accuracy  | Top 5 Accuracy |
-| ------------------ |---------------- | -------------- |
-| My awesome model   |     85%         |      95%       |
-
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
-
