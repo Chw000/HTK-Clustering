@@ -21,6 +21,14 @@ You can download datasets here:
 - [Synthetic_Datasets](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/tree/main/Datasets/Synthetic_Datasets) The synthetic datasets are from the CSDN datasets.
 
 
+### How to use Datasets
+- 1.Download the dataset you need
+- 2.Change the bold text in the image below to the address you downloaded from
+```
+X = txt2array("**D:/python program/txt/Ionosphere.txt**", ",")
+```
+
+
 ## Code
 You can find [HTK-Clustering](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/blob/main/Code/HTK_Clustering.py) algorithm code and its baseline([K-means Clustering](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/blob/main/Code/K-means.py) and [Hierarchical Clustering](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/blob/main/Code/Hierarchical.py))
 
