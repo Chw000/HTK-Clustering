@@ -25,9 +25,7 @@ pip install psutil
 pip install scikit-learn
 pip install scipy
 ```
-
->📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
-
+- Experimental operating system is Window XP,program language is Python 3.9.
 
 ## Results
 
