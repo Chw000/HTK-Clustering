@@ -3,6 +3,11 @@
 This repository is the official implementation of [A Hybrid Clustering Method Based On K-means Algorithm]. 
 
 
+## Introduction
+
+We propose a novel hybrid algorithm that effectively combines K-means clustering and hierarchical and uses triangle inequality to accelerate the clustering speed. The HTK clustering algorithm can produce the same clustering results as the standard K-means clustering algorithm. The proposed algorithm is superior to the standard K-means clustering algorithm in terms of running time and memory usage, thus improving the clustering speed and time complexity of the algorithm. The proposed clustering methods are tested on sci-kit learn datasets, and they are more favorable than the random restart k-means algorithm.
+
+
 ## Datasets
 You can download datasets here:
 
