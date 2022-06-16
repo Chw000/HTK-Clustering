@@ -20,6 +20,11 @@ You can download datasets here:
 ### Synthetic Datasets
 - [Synthetic_Datasets](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/tree/main/Datasets/Synthetic_Datasets) The synthetic datasets are from the CSDN datasets.
 
+
+## Code
+You can find [HTK-Clustering](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/blob/main/Code/HTK_Clustering.py) algorithm code and its baseline([K-means Clustering](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/blob/main/Code/K-means.py) and [Hierarchical Clustering](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/blob/main/Code/Hierarchical.py))
+
+
 ## Requirements
 
 To install requirements:
