@@ -2,6 +2,13 @@
 
 This repository is the official implementation of [A Hybrid Clustering Method Based On K-means Algorithm]. 
 
+
+## Datasets
+You can download datasets here:
+- [Real_Datasets](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/tree/main/Datasets/Real_Datasets) The real datasets are from the UCI 
+repository of machine learning databases [2].
+- [Synthetic_Datasets](https://github.com/Chw000/A-Hybrid-Clustering-Method-Based-On-K-means-Algorithm/tree/main/Datasets/Synthetic_Datasets) The synthetic datasets are from the CSDN datasets 
+
 ## Requirements
 
 To install requirements:
